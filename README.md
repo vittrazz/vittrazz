@@ -1,4 +1,4 @@
-[![MasterHead](https://jimdo-storage.freetls.fastly.net/image/182609908/1e677547-2510-4ba8-94f4-1ed7360bc6aa.jpg?format=pjpg&quality=80,90&auto=webp&disable=upscale&width=1200&height=630&crop=1:0.525)]
+![MasterHead](https://jimdo-storage.freetls.fastly.net/image/182609908/1e677547-2510-4ba8-94f4-1ed7360bc6aa.jpg?format=pjpg&quality=80,90&auto=webp&disable=upscale&width=1200&height=630&crop=1:0.525)
 <h1 align="center">Hi, I'm Evgeniia Koreshilova</h1>
 <h3 align="center">a data analyst from Russia (Tyumen)</h3>
 
