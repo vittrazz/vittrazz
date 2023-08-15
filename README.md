@@ -35,6 +35,8 @@
 [Проект "Принятие решений в бизнесе"](https://github.com/vittrazz/portfolio/blob/main/A_B_test_2.ipynb)|Приоритизация гипотез, анализ A/B-теста, принятие решений
 [Проект "Исследование объявлений о продаже квартир"](https://github.com/vittrazz/portfolio/blob/main/study_research.ipynb)|ПРедобработка данных, исследовательский анализ данных
 
+_________
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittrazz&show_icons=true&locale=en&layout=compact" alt="vittrazz" /></p>
 
