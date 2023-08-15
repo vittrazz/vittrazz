@@ -31,7 +31,7 @@
 [Проект "Оценка результатов А/В-теста"]()|Предобработка данных, исследовательский анализ, оценка А/В-теста, общий вывод
 
 
-<p>d<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittrazz&show_icons=true&locale=en&layout=compact" alt="vittrazz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittrazz&show_icons=true&locale=en&layout=compact" alt="vittrazz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vittrazz&show_icons=true&locale=en" alt="vittrazz" /></p>
 
