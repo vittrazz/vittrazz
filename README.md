@@ -30,7 +30,10 @@
 [Проект "Выделение групп пользователей на основе поведения"](https://github.com/vittrazz/portfolio/blob/main/apps.ipynb)|Предобработка данных, анализ общего поведения пользователей, сегментация пользователей, проверка гипотез
 [Проект "Оценка результатов А/В-теста"](https://github.com/vittrazz/portfolio/blob/main/A_B_test.ipynb)|Предобработка данных, исследовательский анализ, оценка А/В-теста, общий вывод
 [Проект "Анализ бизнес-показателей"](https://github.com/vittrazz/portfolio/blob/main/business_metric.ipynb)|Предобработка данных, создание функций для подсчета метрик и для их визуализации, исследовательский анализ, маркетинговый анализ, выводы и рекомендации
-[Проект "Изучение поведенения пользователей в мобильном приложении при покупке продуктов"](https://github.com/vittrazz/portfolio/blob/main/retail.ipynb)|Изучение воронки продаж, как пользователи доходят до покупки и в каком количестве. Исследование результатов A/A/B-эксперимента.
+[Проект "Изучение поведенения пользователей в мобильном приложении при покупке продуктов"](https://github.com/vittrazz/portfolio/blob/main/retail.ipynb)|Изучение воронки продаж, как пользователи доходят до покупки и в каком количестве. Исследование результатов A/A/B-эксперимента
+[Проект "Исследование успешности компьютерных игр, продаваемых интернет-магазином"](https://github.com/vittrazz/portfolio/blob/main/online_store.ipynb)|Исследовательский анализ данных и визуализация
+[Проект "Принятие решений в бизнесе"](https://github.com/vittrazz/portfolio/blob/main/A_B_test_2.ipynb)|Приоритизация гипотез, анализ A/B-теста, принятие решений
+[Проект "Исследование объявлений о продаже квартир"](https://github.com/vittrazz/portfolio/blob/main/study_research.ipynb)|ПРедобработка данных, исследовательский анализ данных
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittrazz&show_icons=true&locale=en&layout=compact" alt="vittrazz" /></p>
